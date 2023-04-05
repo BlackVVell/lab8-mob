@@ -1,0 +1,4 @@
+#Thu Mar 30 11:17:40 EEST 2023
+base.0=C\:\\Users\\BlackWell\\Documents\\Android\\SimpleAsyncTask\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
